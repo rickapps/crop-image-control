@@ -27,7 +27,7 @@ namespace TestBed
             displayImage.SizeMode = PictureBoxSizeMode.Zoom;
         }
 
-        private void OnStatusUpdate(object sender, StellerJay.FitToList.StatusEventArg e)
+        private void OnStatusUpdate(object sender, RickApps.CropImage.StatusEventArg e)
         {
             croppingStatus.Text = String.Format(
                 "Pos: ({0}, {1}) Area: {2} X {3}",

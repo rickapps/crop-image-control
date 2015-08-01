@@ -1,4 +1,4 @@
-﻿namespace StellerJay.FitToList
+﻿namespace RickApps.CropImage
 {
     partial class RubberBand
     {

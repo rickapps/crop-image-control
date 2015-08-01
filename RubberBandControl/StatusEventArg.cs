@@ -5,12 +5,9 @@
 // ----------------------------------------------------
 
 using System;
-using System.Collections.Generic;
 using System.Drawing;
-using System.Linq;
-using System.Text;
 
-namespace StellerJay.FitToList
+namespace RickApps.CropImage
 {
     /// <summary>
     /// Passes the cropping rectangle and current cursor position to the host object

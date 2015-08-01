@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("RubberBandControl")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("User control to crop images")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Stellerjay Enterprises, LLC")]
 [assembly: AssemblyProduct("RubberBandControl")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyCopyright("Copyright ©  2015  Rick Eichhorn")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
